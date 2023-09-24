@@ -87,10 +87,4 @@ lib/BmltClient/models/validation_error.rb
 lib/BmltClient/version.rb
 spec/api_client_spec.rb
 spec/configuration_spec.rb
-spec/models/conflict_error_spec.rb
-spec/models/root_server_base_spec.rb
-spec/models/root_server_base_statistics_meetings_spec.rb
-spec/models/root_server_base_statistics_service_bodies_spec.rb
-spec/models/root_server_base_statistics_spec.rb
-spec/models/root_server_spec.rb
 spec/spec_helper.rb

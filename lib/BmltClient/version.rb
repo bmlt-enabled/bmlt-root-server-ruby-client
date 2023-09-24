@@ -11,5 +11,5 @@ OpenAPI Generator version: 7.1.0-SNAPSHOT
 =end
 
 module BmltClient
-  VERSION = '1.0.0'
+  VERSION = '1.0.1'
 end
